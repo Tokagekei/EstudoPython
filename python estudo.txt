@@ -1,0 +1,30 @@
+qnd coloca texto sem aspas ele vira uma variavel ( = da o valor para a variavel // = cara da esqrda RECEBE o da direita )
+VARIAVEL container de um valor, q se comporta de acordo com o que contem
+
+STRING ( serie de caracteres ) fica entre as aspas '' ou "" nao usado para math /// colocando str antes e (int) converte o valor para str
+int = integer/inteiro (numero)
+LISTA fica em colchetes []
+FOR >variavel< IN lista ele recebe o valor individual de cada item da lista
+
+FLOAT = numero quebrado
+BOOL = true / false 
+
+input posta algo e o cliente vai dar uma resposta (sempre em string), se for usar int ou float ou qlqr coisa tem q fazer a conversao int(input(kkkkkkk))
+
+
+import math pi=3.14
+round > numero inteiro 3
+ceil > arredonda pra cima 4
+floor > arredonda p baixo 3
+abs > valor absoluto (se for numero negativo vai ser positivo )
+pow > power print(pow(pi,2))	= 9,8596
+sqrt > square valor ao quadrado
+max > ( se tiver varias variaveis ele printa ql eh o maior)
+min > eh a msm coisa q max mas pro minimo
+
+STRING SLICING
+
+
+
+
+
